@@ -1,16 +1,50 @@
-# control_stock_app
+# 📦 Control de Stock
 
-A new Flutter project.
+Aplicación móvil desarrollada con Flutter y Firebase para gestionar inventario y controlar stock de productos en tiempo real.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Agregar productos
+- ✏️ Editar stock
+- 🗑️ Eliminar productos
+- ⚠️ Alertas visuales de stock bajo
+- 🔥 Sincronización en tiempo real con Firebase Firestore
+- 📱 Interfaz moderna y simple
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tecnologías utilizadas
+
+- Flutter
+- Dart
+- Firebase Firestore
+
+---
+
+## 📱 Capturas
+
+### 🏠 Home
+![Home](LINK_IMAGEN_HOME)<img width="1080" height="2185" alt="home_screen" src="https://github.com/user-attachments/assets/4e6497d2-5957-451a-906b-7cc8ef336470" />
+
+
+### ➕ Agregar producto
+![Agregar](LINK_IMAGEN_AGREGAR)<img width="1080" height="2189" alt="agregar_producto" src="https://github.com/user-attachments/assets/730dae2c-62e4-4cbc-b89e-cdbf0ef773a6" />
+
+
+### ✏️ Editar producto
+![Editar](LINK_IMAGEN_EDITAR)<img width="1077" height="2192" alt="editar_producto" src="https://github.com/user-attachments/assets/45cd53f6-9627-4846-81c5-785baf5b92f5" />
+
+
+---
+
+## 🎯 Objetivo del proyecto
+
+Desarrollar una solución práctica para pequeños negocios o emprendimientos que necesiten controlar inventario desde el celular de forma rápida y organizada.
+
+---
+
+## 👨‍💻 Desarrollado por
+
+Gaston Bartolucci
